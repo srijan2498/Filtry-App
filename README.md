@@ -1,7 +1,7 @@
 # Filtry-App
 It is a react based application. The users can make use of this application to take their beautiful pictures to the next level by applying various filters from the options available in the application.
 
-Live Link -> https://cheery-bonbon-1adbaa.netlify.app/
+Live link -> https://cheery-bonbon-1adbaa.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/47470062/216802983-008affa6-e1ec-44fc-b2ba-3157bd007a11.png)
 
