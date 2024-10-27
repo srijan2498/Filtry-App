@@ -1,10 +1,25 @@
-# Filtry-App
-It is a react based application. The users can make use of this application to take their beautiful pictures to the next level by applying various filters from the options available in the application.
+# Filtry
+🚀 **Filtry** – Elevate your images with stunning filters! 🎨📸
 
-Live link -> https://cheery-bonbon-1adbaa.netlify.app/
+Filtry is a web app designed to let users upload images, apply beautiful filters, and download their enhanced creations. Built with React, this app provides an interactive, user-friendly UI that makes image editing easy and enjoyable.
 
-![image](https://user-images.githubusercontent.com/47470062/216802983-008affa6-e1ec-44fc-b2ba-3157bd007a11.png)
+🌐 **Live Demo**
+Check out the live version of Filtry here: [Filtry Live](https://filtry-app.netlify.app/)
 
-![image](https://user-images.githubusercontent.com/47470062/216803008-36ee0fc5-409c-4281-ba1d-031e49f342cb.png)
+# Features
+✨ **Image Upload**: Upload images directly from your computer or mobile device.
 
-![image](https://user-images.githubusercontent.com/47470062/216802997-fc32881a-84a2-4871-aea9-abac23c130e4.png)
+✨ **Filter Effects**: Experiment with various filter effects to give your photos a fresh look and feel.
+
+✨ **Downloadable Creations**: Save your edited images with just one click!
+
+✨ **Interactive UI**: A clean, intuitive interface for smooth navigation and ease of use.
+
+# Tech Stack
+**React** & **JSX**
+
+**JavaScript** & **CSS**
+
+**React Router DOM** for navigation
+
+**React Hooks** for state and effect management
