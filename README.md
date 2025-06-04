@@ -20,6 +20,6 @@ Check out the live version of Filtry here: [Filtry Live](https://filtry-app.netl
 
 **JavaScript** & **CSS**
 
-**React Router DOM** for navigation
+**React Router DOM** for navigation 
 
 **React Hooks** for state and effect management
