@@ -13,7 +13,7 @@ Check out the live version of Filtry here: [Filtry Live](https://filtry-app.netl
 
 ✨ **Downloadable Creations**: Save your edited images with just one click!
 
-✨ **Interactive UI**: A clean, intuitive interface for smooth navigation and ease of use.
+✨ **Interactive UI**: A clean, intuitive interface for smooth navigation and ease of use. 
 
 # Tech Stack
 **React** & **JSX**
